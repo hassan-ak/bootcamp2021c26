@@ -16,6 +16,8 @@
       - openIdConnect
         - openIdConnectUrl: `<url>`
   - Chapter 08
+    - API documentation
+    - Hosting
 
 ## Reading Material
 
