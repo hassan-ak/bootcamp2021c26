@@ -78,6 +78,8 @@ paths:
                     type: string
                     pattern: '[a-zA-Z-.0-9]{36}'
                     example: f7f680a8-d111-421f-b6b3-493ebf905078
+      security:
+        - MyUserToken: []
   /reviews/{reviewId}:
     get:
       description: Get a single review
@@ -178,4 +180,9 @@ paths:
                 properties:
                   token:
                     type: string
-              
+components:
+  securitySchemes:
+          MyUserToken:
+            type: apiKey
+            in: header
+            name: Authorization
