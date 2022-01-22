@@ -6,7 +6,7 @@
 
 - [OpenApi Swagger postman](./step07_openapi_swagger_postman)
 
-### Class 25 Videos
+### Class 26 Videos
 
 - [English YouTube](https://www.youtube.com/watch?v=UXlbA3Bcc_c&ab_channel=CertifiedUnicornDeveloper)
 - [English Facebook](https://www.facebook.com/trouble.maker121/videos/433616651772639)
