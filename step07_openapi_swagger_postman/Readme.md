@@ -4,6 +4,17 @@
 
 - [Designing APIs with Swagger and OpenAPI](https://www.manning.com/books/designing-apis-with-swagger-and-openapi)
   - Chapter 07
+    - Types of authorization (securities) supported in OpenAPI 3.0.x
+      - apiKey
+        - in header
+        - in query
+        - in cookie
+      - http
+        - scheme:
+      - oauth
+        - flows: {}
+      - openIdConnect
+        - openIdConnectUrl: `<url>`
   - Chapter 08
 
 ## Reading Material
